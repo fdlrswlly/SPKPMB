@@ -1,0 +1,13 @@
+D:\Fadori folder\Kuliah\Semester 6\Sistem Pendukung Keputusan\C# Program\SPKPMB_Apps\SPKPMB_Apps\bin\Debug\SPKPMB_Apps.exe
+D:\Fadori folder\Kuliah\Semester 6\Sistem Pendukung Keputusan\C# Program\SPKPMB_Apps\SPKPMB_Apps\bin\Debug\SPKPMB_Apps.pdb
+D:\Fadori folder\Kuliah\Semester 6\Sistem Pendukung Keputusan\C# Program\SPKPMB_Apps\SPKPMB_Apps\obj\x86\Debug\SPKPMB_Apps.FormMenu.resources
+D:\Fadori folder\Kuliah\Semester 6\Sistem Pendukung Keputusan\C# Program\SPKPMB_Apps\SPKPMB_Apps\obj\x86\Debug\SPKPMB_Apps.FormPegawai.resources
+D:\Fadori folder\Kuliah\Semester 6\Sistem Pendukung Keputusan\C# Program\SPKPMB_Apps\SPKPMB_Apps\obj\x86\Debug\SPKPMB_Apps.Properties.Resources.resources
+D:\Fadori folder\Kuliah\Semester 6\Sistem Pendukung Keputusan\C# Program\SPKPMB_Apps\SPKPMB_Apps\obj\x86\Debug\SPKPMB_Apps.csproj.GenerateResource.Cache
+D:\Fadori folder\Kuliah\Semester 6\Sistem Pendukung Keputusan\C# Program\SPKPMB_Apps\SPKPMB_Apps\obj\x86\Debug\SPKPMB_Apps.exe
+D:\Fadori folder\Kuliah\Semester 6\Sistem Pendukung Keputusan\C# Program\SPKPMB_Apps\SPKPMB_Apps\obj\x86\Debug\SPKPMB_Apps.pdb
+D:\Fadori folder\Kuliah\Semester 6\Sistem Pendukung Keputusan\C# Program\SPKPMB_Apps\SPKPMB_Apps\obj\x86\Debug\SPKPMB_Apps.csprojResolveAssemblyReference.cache
+D:\Fadori folder\Kuliah\Semester 6\Sistem Pendukung Keputusan\C# Program\SPKPMB_Apps\SPKPMB_Apps\obj\x86\Debug\SPKPMB_Apps.FormLogin.resources
+D:\Fadori folder\Kuliah\Semester 6\Sistem Pendukung Keputusan\C# Program\SPKPMB_Apps\SPKPMB_Apps\obj\x86\Debug\SPKPMB_Apps.FormSiswa.resources
+D:\Fadori folder\Kuliah\Semester 6\Sistem Pendukung Keputusan\C# Program\SPKPMB_Apps\SPKPMB_Apps\bin\Debug\SPKPMB_Apps.exe.config
+D:\Fadori folder\Kuliah\Semester 6\Sistem Pendukung Keputusan\C# Program\SPKPMB_Apps\SPKPMB_Apps\obj\x86\Debug\SPKPMB_Apps.FormTest.resources
